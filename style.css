@@ -1,0 +1,57 @@
+.table1{
+    border: 2px solid black;
+    width: 1000px;
+    height: 400px;
+    margin: 90px auto;
+}   
+tr{
+    border: 2px solid black;
+    border-radius: 25px;
+    color: black;
+    background-color: rgb(247, 250, 206);
+}
+td{
+    border: 2px solid black;
+    color: black;
+    background-color:rgb(247, 250, 206
+    ) ;
+}
+.foto1{
+    display: block;
+    margin: 10px;
+    width: 100px ;
+    height: 100px;
+}
+.foto2{
+    display: block;
+    margin: 10px;
+    width: 100px ;
+    height: 100px;
+}
+.foto3{
+    display: block;
+    margin: 10px;
+    width: 100px ;
+    height: 100px;   
+}
+.foto4{
+    display: block;
+    margin: 10px;
+    width: 100px ;
+    height: 100px;
+}
+.foto5{
+    display: block;
+    margin: 10px;
+    width: 100px ;
+    height: 100px;
+}
+.foto6{
+    display: block;
+    margin: 10px;
+    width: 100px ;
+    height: 100px;
+}
+body{
+    background-color: rgb(240, 245, 166);
+}
